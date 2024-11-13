@@ -47,4 +47,4 @@ Mysellar Global Store is an e-commerce platform offering diverse products worldw
 Further investigation into market conditions, customer preferences and competitive positioning in identified underperforming countries is recommended to leverage ecomnomic productivity for increased sales.
 
 ## Download 
-
+<a href = "https://github.com/sarahdelight2017/Mysellar-Global-Store/raw/refs/heads/main/Asserts/Chinaza%20Akaneme%20Capstone%20Project.twbx"> Download Tableau File </a>
