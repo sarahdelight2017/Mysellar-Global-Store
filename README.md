@@ -17,6 +17,7 @@ Mysellar Global Store is an e-commerce platform offering diverse products worldw
 
 ## Techniques and Skills 
 - Clean and organise GDP data
+- Data normalization
 - Measures and calculations
 - Data visualization
 - Story telling
