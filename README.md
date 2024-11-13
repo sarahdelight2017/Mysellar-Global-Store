@@ -25,7 +25,7 @@ Mysellar Global Store is an e-commerce platform offering diverse products worldw
 - Maps
 
 ## Data source 
-<a href = "https://github.com/sarahdelight2017/Mysellar-Global-Store/blob/main/Asserts/Mysellar%20Global%20Sales%20Dataset%20copy.xlsx"> Mysellar Global Store Database </a>
+<a href = "https://github.com/sarahdelight2017/Mysellar-Global-Store/blob/main/Asserts/Mysellar%20Global%20Sales%20Dataset%20copy.xlsx"> Mysellar Global Store Database </a>, 
 <a href = "https://github.com/sarahdelight2017/Mysellar-Global-Store/blob/main/Asserts/gdp%202019-2021.xlsx"> GDP LOOKUP </a>
 
 ## Mysellar Global Store Dashboard Insights 
