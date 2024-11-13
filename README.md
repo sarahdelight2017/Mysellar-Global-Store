@@ -1,4 +1,4 @@
-## Analysis and Visualization of Mysellar Global Stores On All Continent (2019 to 2021)
+## Analysis and Visualization of Mysellar Global Stores On All Continents (2019 to 2021)
 
 ## Introduction
 Mysellar Global Store is an e-commerce platform offering diverse products worldwide. Delivering exceptional shopping experience. Mysellar is a multinational retail corporation that operates a chain of stores - online and offline - on all continents. The items sold cut across a range of categories including cosmetics, baby food, household, office supplies, and clothes. This analysis focus on mysellar sales database on all continents from 2019 to 2021, and GDP of Sub-Saharan region to determine the relationship between sales in that region and the gdp  , it also focus on providing sales data to inform decision-making on the profitable products to focus on and which markets to concentrate sales efforts on.
@@ -33,13 +33,13 @@ Mysellar Global Store is an e-commerce platform offering diverse products worldw
 ![Overview 1](https://github.com/sarahdelight2017/Mysellar-Global-Store/blob/main/Asserts/Mysellar%20category%20and%20monthly%20trend.png)
 
 ### Trend Over Time
-[Overview 2](https://github.com/sarahdelight2017/Mysellar-Global-Store/blob/main/Asserts/mysellar%20region%20unit%20sold%20and%20top%20performers%20.png)
+![Overview 2](https://github.com/sarahdelight2017/Mysellar-Global-Store/blob/main/Asserts/mysellar%20trend%20over%20time%20.png)
 
 ### Regions by Unit Sold & Performance
-![Overview 3](https://github.com/sarahdelight2017/Mysellar-Global-Store/blob/main/Asserts/mysellar%20trend%20over%20time%20.png)
+![Overview 3](https://github.com/sarahdelight2017/Mysellar-Global-Store/blob/main/Asserts/mysellar%20region%20unit%20sold%20and%20top%20performers%20.png)
 
 ### Shipping-Time BY Regions
-
+![AVST](https://github.com/sarahdelight2017/Mysellar-Global-Store/blob/main/Asserts/Mysellar%20countries%20of%20interest.png)
 
 ![Overview 4](https://github.com/sarahdelight2017/Mysellar-Global-Store/blob/main/Asserts/mysellar%20shipping%20time%20by%20region.png)
 
